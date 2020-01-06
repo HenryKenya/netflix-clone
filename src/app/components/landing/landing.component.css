@@ -1,0 +1,6 @@
+.hero-slider {
+    background: url('../../../assets/images/bn.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
